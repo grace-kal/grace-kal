@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gratsiya Kalinina, 22 years old, from Bulgaria
 - 👀 I’m interested in .NET development- web and mobile
 - 🌱 I’m currently working as a ASP.NET Developer at Kodar (Strypes Group)
-- 💞️ I’m looking to collaborate on projects that include ASP.NET Web API
+- 💞️ I’m looking to collaborate on projects that include ASP.NET Web API / MVC 
 - 📫 How to reach me- email: kalinina.grace@gmail.com or on LinkedIn: https://www.linkedin.com/in/gratsiya-kalinina/
