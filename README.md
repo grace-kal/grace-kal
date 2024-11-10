@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gratsiya Kalinina, 23 years old, from Bulgaria
+- 👋 Hi, I’m Gratsiya Kalinina, 24 years old, from Bulgaria
 - 👀 I’m interested in .NET development- web and mobile
 - 🌱 I’m currently working as a ASP.NET Developer at Kodar (Strypes Group)
 - 💞️ I’m looking to collaborate on projects that include ASP.NET Web API / MVC 
